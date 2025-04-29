@@ -1,5 +1,5 @@
 # Comparative Study of Classical and Deep Learning Methods for Multi-Modal Brain Image Registration
-
+![](./results/LapIRN/visuals/patient_07.png)
 ## Introduction
 
 Multi-modal medical image registration is a fundamental task in medical imaging, aiming to spatially align anatomical structures across images acquired with different modalities such as CT and MRI. Accurate registration is critical for applications like diagnosis, treatment planning, and neuroanatomical studies.
