@@ -50,28 +50,6 @@ Adjust dataset paths inside notebooks and scripts accordingly.
 
 ------
 
-## Setup
-
-```bash
-git clone https://github.com/YourUsername/BMIR.git
-cd BMIR
-pip install -r requirements.txt
-```
-
-Main dependencies:
-
-- torch, torchvision
-- SimpleITK
-- scikit-image
-- opencv-python
-- nibabel
-- pandas, matplotlib
-- tqdm
-- torchio
-- gdown
-
-------
-
 ## How to Run
 
 | Task              | Command/Notebook                               |
