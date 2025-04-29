@@ -96,6 +96,6 @@ This project is licensed under the MIT License.
   title = {BMIR: Comparative Study of Classical and Deep Learning Methods for Multi-Modal Brain Image Registration},
   year = {2025},
   publisher = {GitHub},
-  howpublished = {\url{https://github.com/YourUsername/BMIR}},
+  howpublished = {\url{https://github.com/Khamies/bmir}},
 }
 ```
